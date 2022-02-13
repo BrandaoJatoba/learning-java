@@ -2,7 +2,7 @@ public class ifStatement {
 
 public static void main(String args[]){
         
-        int a, b, c; //Variáveis instanciadas em sequência.
+        int a, b, c; //Variáveis declaradas em sequência.
         a = 2; 
         b = 3;
         
